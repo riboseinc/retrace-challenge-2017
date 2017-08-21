@@ -1,0 +1,28 @@
+FreeBSD msdos using http://github.com/riboseinc/fuzzbsd[FuzzBSD]:
+
+* Issue post: https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=221501
+
+DragonFlyBSD msdos [12.128] using http://github.com/riboseinc/fuzzbsd[FuzzBSD]:
+
+* Issue post: https://bugs.dragonflybsd.org/issues/3049
+
+DragonFlyBSD msdos [22.000] using http://github.com/riboseinc/fuzzbsd[FuzzBSD]:
+
+* Issue post: https://bugs.dragonflybsd.org/issues/3050
+* Fix: https://gitweb.dragonflybsd.org/dragonfly.git/commit/7efe8b402067ccb896c086108596a566854e0f97
+
+DragonFlyBSD ntfs [12.000] using http://github.com/riboseinc/fuzzbsd[FuzzBSD]:
+
+* Issue post: https://bugs.dragonflybsd.org/issues/3051
+
+DragonFlyBSD ntfs [64.000] using http://github.com/riboseinc/fuzzbsd[FuzzBSD]:
+
+* Issue post: https://bugs.dragonflybsd.org/issues/3052
+
+NetBSD msdos using http://github.com/riboseinc/fuzzbsd[FuzzBSD]:
+
+* Issue: private post
+* Fix notice: http://mail-index.netbsd.org/source-changes/2017/08/20/msg087591.html[kern/52485]
+* Fix: http://cvsweb.netbsd.org/bsdweb.cgi/src/sys/fs/msdosfs/msdosfs_vfsops.c.diff?r1=1.127&r2=1.128&only_with_tag=MAIN&f=h
+
+
