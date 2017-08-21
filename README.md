@@ -1,7 +1,7 @@
 # The Retrace Challenge + Rewards
 
 * NEWS: 2017-08-09: We are happy to announce the Retrace Challenge! See below!
-* NEWS: 2017-08-21: add [sample submissions](https://github.com/riboseinc/retrace-challenge-2017/blob/master/EXAMPLES.adoc)
+* NEWS: 2017-08-21: show [existing submissions](https://github.com/riboseinc/retrace-challenge-2017/blob/master/EXAMPLES.adoc)
 
 See [submissions found on FreeBSD/NetBSD/DragonFlyBSD](https://github.com/riboseinc/retrace-challenge-2017/blob/master/EXAMPLES.adoc)
 
